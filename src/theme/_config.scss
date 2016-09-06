@@ -1,0 +1,10 @@
+@import "~react-toolbox/lib/colors";
+
+$color-primary: rgb(204, 129, 255);
+// $color-primary-dark: $palette-blue-700;
+$color-accent: rgb(117, 26, 20);
+// $color-accent-dark: $palette-deep-orange-a700;
+$color-primary-contrast: $color-dark-contrast !default;
+$color-accent-contrast: $color-dark-contrast !default;
+$tab-pointer-color: $color-accent;
+$tab-text: $color-dark-contrast;
